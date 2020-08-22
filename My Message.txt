@@ -1,0 +1,10 @@
+
+
+echo "# MatLab" >> README.md
+git init
+git add README.md
+git commit -m "-- Your Commit Message --"
+
+
+git remote add origin https://github.com/Rajatkumar0662/MatLab.git
+git push -u origin master
